@@ -1,0 +1,20 @@
+{
+   "app": {
+      "background": {
+         "scripts": [ "main.js" ]
+      }
+   },
+   "author": "Jonathan Alfonso",
+   "description": "Anime Twist is a website which hosts thousands of episodes of anime, all videos are in the highest quality we can find, all hosted for your enjoyment.",
+   "icons": {
+      "128": "128.png",
+      "16": "16.png"
+   },
+   "name": "Anime Twist (*Unofficial*)",
+   "short_name": "Anime Twist",
+   "offline_enabled": false,
+   "permissions": [ "webview" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "minimum_chrome_version": "24.0.1307.0",
+   "version": "0.1"
+}
