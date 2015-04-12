@@ -11,7 +11,7 @@
 	"version": "0.2",
 	"manifest_version": 2,
 	"minimum_chrome_version": "37.0.0.0",
-	"permissions": ["webview", "fullscreen", "power", "storage", "videoCapture", "geolocation", "pointerLock", "system.display", {
+	"permissions": ["webview", "fullscreen", "power", "storage", "system.display", {
 		"fileSystem": ["write", "retainEntries", "directory"]
 	}, "accessibilityFeatures.read", "accessibilityFeatures.modify"],
 	"app": {
