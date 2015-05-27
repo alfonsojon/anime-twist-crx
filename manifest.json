@@ -8,7 +8,7 @@
 		"128": "img/128.png",
 		"16": "img/16.png"
 	},
-	"version": "0.2",
+	"version": "0.3",
 	"manifest_version": 2,
 	"minimum_chrome_version": "37.0.0.0",
 	"permissions": ["webview", "fullscreen", "power", "storage", "system.display", {
