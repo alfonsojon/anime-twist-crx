@@ -374,3 +374,8 @@ flex:none;
 .tab [type=radio],.unAvailable {
 display:none;
 }
+
+#view6-webview {
+  height: calc(100% - 17px) !important; /* Dirty hack to prevent page from flowing off window */
+}
+}

@@ -3,7 +3,7 @@ window.config = {
    "id": 1,
    "appName": "Anime Twist",
    "version": "0.2",
-   "homepage": "https://pomf.no/",
+   "homepage": "https://twist.moe/",
    "enableReloadBttn": true,
    "enableLogoutBttn": false,
    "kioskEnabled": true
