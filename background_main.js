@@ -44,6 +44,7 @@ chrome.app.runtime.onLaunched.addListener(function() {
 });
 
 
+
 /**
  * Listens for the app restarting then re-creates the window.
  *

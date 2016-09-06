@@ -1745,6 +1745,7 @@ MODEL({
       this.webview.addEventListener('permissionrequest', function(e) {
         // TODO(ebeach): Show permission to user.
         if (e.permission === 'media' ||
+            e.permission === 'fullscreen' ||
             e.permission === 'geolocation' ||
             e.permission === 'pointerLock') {
           e.request.allow();
